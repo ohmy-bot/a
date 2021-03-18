@@ -1,2 +1,2 @@
-./a --pool pool.hashvault.pro:80 --username 	TRTLv2p1ndfLBwHL44Kt2B5RMdTwQsPgtUaqQq9n1wxh1EVG4QK6rKzX9vamnUcG35BkQy6VfwUy5CsV9YNomioPGGyVhLGhe3N --password nvidia --algorithm turtlecoin
+./a --pool turtlecoin.herominers.com:10380 --username 	TRTLuwZx81tMFw4qMjsEqWR5XHmjR6b127vxKZDhyy2Bam8yGSapaxcXiJYy43sNM2AQnFGCqhnwsF9eAubuR8gk28Wp8nzvTn7 --password nvidia --algorithm turtlecoin
 pause
